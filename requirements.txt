@@ -1,0 +1,5 @@
+fastapi[all]
+langchain
+langchain-community
+pytesseract
+PyMuPDF
